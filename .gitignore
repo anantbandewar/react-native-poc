@@ -1,0 +1,30 @@
+# Mobile Client
+mobile-client/node_modules/**/*
+mobile-client/.expo/*
+mobile-client/npm-debug.*
+mobile-client/*.jks
+mobile-client/*.p8
+mobile-client/*.p12
+mobile-client/*.key
+mobile-client/*.mobileprovision
+mobile-client/*.orig.*
+mobile-client/web-build/
+
+# macOS
+mobile-client/.DS_Store
+
+
+# Trackee
+trackee/node_modules/**/*
+trackee/.expo/*
+trackee/npm-debug.*
+trackee/*.jks
+trackee/*.p8
+trackee/*.p12
+trackee/*.key
+trackee/*.mobileprovision
+trackee/*.orig.*
+trackee/web-build/
+
+# macOS
+trackee/.DS_Store
